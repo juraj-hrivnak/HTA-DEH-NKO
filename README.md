@@ -6,16 +6,107 @@
 
 **Názov témy:** ČAS A POHYB V HUDBE
 
-- **a)** vysvetlite pojmy rytmus, metrum, takt, tempo
-    a ich zaznamenávanie v notovom zápise.
+- **a)**
+  - Vysvetlite pojmy rytmus, metrum, takt, tempo a ich zaznamenávanie v notovom zápise.
+- <details>
+    <summary>Vypracovanie</summary>
 
-- **b)** charakterizujte formu suity a suitového cyklu. Na základe notového
-    príkladu popíšte metro-rytmickú idiomatiku a tempové
-    charakteristiky jednotlivých tancov barokovej suity.
+  - **Rytmus –** dĺžka nôt, vzájomné pomery dĺžok (celá, polová, štvrťová... + pomlčky), pravidelné delenie – polová = 2 štvťové atď. , nepravidelné delenie (polová = 3 štvťové, 5 osminových, 7 šestnástinových ...)
 
-- **c)** načrtnite význam tancov a tanečnej hudby dejinách hudobnej tvorby.
-    Vymenujte skladateľov, ktorí sa venovali tvorbe tancov, suít,
-    štylizovaných tancov a baletov. Uveďte príklady z ich tvorby.
+  - **Metrum –** striedanie prízvučných a neprízvučných dôb napr. 1 prízvučná a 2 neprízvučné doby = 3-dobý takt. Metrum je v zápise vyjadrené **taktovým predznamenaním  - .** napr. 3/8 – 3 doby (1. prízvučná, 2. a 3. neprízvučná), 1 doba = osminová nota. **párne a nepárne metrum**
+
+  - **Takt –** metro-rytmická jednotka, ohraničená taktovou čiarou.
+
+    - **jednoduché** (majú 1 prízvučnú dobu – napr. ¾, 2/4...)
+    - **zložené** (majú 2 a viac prízvukov  - napr. 4/4, 6/8 a pod.)
+
+  - **Tempo –** rýchlosť pulzácie dôb, zapisuje sa
+    1. talianskym názvoslovím na začiatku skladby (rýchle tempá – Presto, Vivace, Allegro... stredné tempá: Moderato, Andante... pomalé tempá: Largo, Adagio, Grave...),
+    2. udaním počtu úderov za minútu na jednu rytmickú jednotku: napr. 1 štvrťová = 120 MM (Meltzelov metronóm) alebo BPM (Beats per minute)
+    3. durata (celkové trvanie skladby) – na konci skladby je napr. Durata: 3´45´´ t.j. skladba sa má zahrať za 3 minúty a 45 sekúnd
+
+    - Počas skladby sa môže tempo meniť, ak pod príslušným úsekom skladby je
+      - *acc. / accel./ accellerando* alebo *stringendo* (zrýchľovanie)
+      - *rit. /ritenuto/ ritardando* alebo *rallentando* (spomaľovanie, zvoľnenie) prípadne aj *dim./ diminuendo* stišovanie spolu so spomalením.
+
+  </details><br/>
+
+- **b)**
+  - Charakterizujte formu suity a suitového cyklu.
+  - Na základe notového príkladu popíšte metro-rytmickú idiomatiku a tempové charakteristiky jednotlivých tancov barokovej suity.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  - **Suita, suitový cyklus –** rad tancov alebo výber inštrumentálnej hudby z hudobno-dramatických diel (z baletu, muzikálu, scénickej alebo filmovej hudby a pod.), prípadne konceptuálny album (v jazze, v rocku a pod.).
+
+    - **V baroku** sa používal aj pojem *ordre, partie, partita, ouverture...*
+
+    - Môže obsahovať aj netanečné časti (prelúdium, ouverture...)
+
+    - **Rozdiel medzi** **suitovým a sonátovým cyklom je, že sonátový cyklus musí mať aspoň 1 časť v sonátovej forme!**
+
+  - **Barokové tance -** líšia sa tempovo (pomalé, rýchle), metricky (párne, nepárne), či majú alebo nemajú predtaktie, formovou štuktúrou (napr. pravidelné 8-taktia, alebo nepravidelné) a celkovou rytmickou idiomatikou (použitie sominovej pulzácie, prvá doba je dlhá hodnota a pod.), prípadne faktúrou (napr. gigue býva polyfónny, sarabanda býva kolorovaná ária a pod.). V barokových suitách je jednotiacim prvkom tónina, niekedy aj motivicko-tematický materiál – technika tzv. proportio* (hudba zostáva, zmení sa tempo a metrum)
+
+    - *allemande –* štvordobý tanec mierneho tempa s predtaktím, prvá doba je ležiaca, s drobnými rytmickými hodnotami vo figurácii (osminy, šestnástiny)
+
+    - *courante –* trojdobý, rýchlejší s predtaktím, objavujú sa často hemioly v kadenciách. (zmeny metra napr. zo 6/8 na ¾ - vo vnútri, nezapísané)
+
+    - *sarabanda  -* trojdobý, veľmi pomalý, bez predtaktia. striedajú sa prízvuky na 1. a 2. dobu v takte. Často ako kolorovaná ária.
+
+    - *gigue –* trojdobý, veľmi rýchly, s predtaktím alebo bez, najčastejšie ako 6/8 alebo 12/8 takt, imitačne vedené hlasy.
+
+    - *menuet –* trojdobý, mierne tempo, bez predtaktia, pravidelná štruktúra, štrvťová alebo osminová pulzácia
+
+    - *gavotte –* 4/4, mierne rýchly, 2 štvťové noty ako predtaktie, na začiatku taktu polová hodnota (môže byť aj akordický rozklad s ležiacou harmóniou)
+
+    - *bourrée –* rýchlejší, 4- dobý so štvrťovým predtaktím.
+
+    - *siciliano –* 12/8 s predtaktím, s bodkovaným rytmom, mierneho až pomalého tempa
+
+    ďalšie tance – *canarie, loure, passacaglia, ciaccona (chaconne), folia, passamezzo, chorea (všeobecný názov pre tanec), polonaise...*
+
+    v období klasicizmu nastal útlm v tvorbe suít, z inštrumentálnej hudby ju vytlačili skladby na báze sonátového cyklu (sonáty, serenády, divertimentá, sláčikové kvartetá, dychové kvintetá ...)
+
+    pojem suita sa objavuje v období 19. st. (romantizmus) vo význame  „hudba z baletu, scénická hudba...“
+
+  </details><br/>
+
+- **c)**
+  - Načrtnite význam tancov a tanečnej hudby dejinách hudobnej tvorby.
+  - Vymenujte skladateľov, ktorí sa venovali tvorbe tancov, suít, štylizovaných tancov a baletov. Uveďte príklady z ich tvorby.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  - **Tanec a tanečná hudba** mali v minulosti nízke postavenie medzi umeniami – úžitková hudba, **od stredoveku** málo záznamov hudby (tance saltarello, lai, ballata, estampie...)
+
+  - **V renesancii** – Urpaar (pôvodný pár – **pavane –** pomalý tanec 4 -dobý – polová, 2 štvrťové a **gagliarde –** rýchly 3-dobý) technika *proportio* – rovnaký hudobný materiál. Ďalšie tance – *venetiana, bransle ...* Prvé učebnice tanca (Arbeau), prvé tanečné zbierky (Attaignant, Susato...)
+
+  - **Baroko –** viď vyššie. Vo Francúzsku vzniká za Ľudovíta XIV. Akadémia tanca – pravidlá tanca.
+    - Vzniká ***Ballet de cour*** (tanec – alegorické postavy, básnický prednes – komentár, vokálna a inštrumentálna hudba - Lully), ***comédie-ballet*  -** spolupráca Moliére – Lully (divadelná komédia s tancami a pesničkami), ***opéra-ballet***  - spev s baletmi (Rameau). **Inštrumentálne suity** – pre orchester alebo sólové nástroje (Couperin, Rameau, Händel, Bach, Muffat...)
+
+  - **Klasicizmus** – Menuet ako súčasť sonátového cyklu, už sa netancoval v tom čase;
+    - Salónna hudba - klavírne štylizácie tancov – Menuet, Eccossaise, Ländler, Polonaise, Walzer...Beethoven, Haydn, Mozart... prvé dejové balety (*La Fille mal gardée –* Zle strážené dievča, alebo Márna opatrnosť) – hudba k baletom je málo dôležitá, býva to *pasticcio* -t.j. je zostavená z rôznej vtedy populárnej hudby a melódií od rôznych autorov.
+    - **Beethoven**: balet Prometheove stvorenia (dejový balet)
+
+  - **Romantizmus – balet –** dôležitosť hudby: Adolphe Adam: Gisele, Ludwig Minkus: Don Quijote, Čajkovskij – Labutie jazero, Spiaca krásavica, Luskáčik...
+
+  - **Suity ako scénická hudba:** Mendelssohn – Sen noci svätojánskej, Grieg – Peer Gynt...
+
+  - **Štylizované tance, národné tance:** Brahms – Uhorské tance, Dvořák – Slovanské tance, Chopin (Valčíky, Mazurky...), Schubert (salónne tance), Smetana – Polky...
+
+  - **Populárne tance –** v operetách (Offenbach – can-can / galop; Strauss, Lehár, Kálman – valčíky, štvorylky, čardáše...) alebo samostatné tance – Johann Strauss ml. – kráľ valčíkov.
+
+  - **20.** st. **balety dejové, nedejové –** na začiatku 20. st. významný súbor Ballet Rousses (manažér Sergej Ďagilev – pôsobil tu napr. Nižinskij tanečník a choreograf napr. Stravinského baletov), **Stravinskij**: Vták Ohnivák, Petruška, Svätenie jari, Svadby (Les Noces)..., Prokofjev – Rómeo a Júlia, Chačaturjan – Spartakus, Gajané...
+
+    - využíva sa originálne komponovaná alebo už existujúca hudba (napr. balet Carmen využíva hudbu z opery a pod.)
+
+    - suity z diel filmovej hudby, scénickej hudby, muzikálov, operiet, opier... (Bernstein – West Side Story, John Williams (Superman, Star Wars, Schindler´s List, Indiana Jones...)...
+
+    - v 20. st. vplyv jazzu, rockovej hudby, elektronickej hudby, etnickej hudby – využíva sa fusion (kombinácia štýlov), v období postmoderny sa celkovo stierajú hranice medzi umelou (umeleckou, artificiálnou, klasickou, vážnou) hudbou a populárnou hudbou.
+
+    - diela Duke Ellingtona, konceptuálne albumy (The Who – Tommy, Pink Floyd – The Wall...)...
+
+  </details><br/>
 
 **Pri vypracovaní využite:**
 
@@ -35,15 +126,33 @@
 - **a)** definujte pojmy stupnica, tónina. Vymenujte druhy stupníc
     a vysvetlite princíp zoradenia stupníc v kvintovom/ kvartovom
     kruhu.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **b)** na príkladoch spevov gregoriánskeho chorálu vysvetlite systém
     stredovekých modov. Demonštrujte na ukážkach tónový rozsah
     autentických a plagálnych modov, ich finalis a dominantu.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **c)** charakterizujte situáciu v hudbe na prelome 19. a 20. storočia
     z hľadiska krízy tonality. Charakterizujte tvorbu a prínos
     skladateľov 2. viedenskej školy a ich odkaz v tvorbe skladateľov
     tzv. Novej hudby.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 **Pri vypracovaní využite:**
 
@@ -63,10 +172,22 @@
 - **a)** vysvetlite pojem akord. Vymenujte základné druhy kvintakordov
     a septakordov. Vysvetlite základný princíp tvorby obratov akordov
     a vymenujte obraty kvintakordu a septakordu.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **b)** na notových príkladoch vysvetlite základné princípy skráteného
     akordického sprievodu: generálbasu a akordických značiek.
     Vysvetlite ich historické a žánrové súvislosti.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **c)** charakterizujte situáciu v hudbe na prelome 16. a 17. storočia,
     ktorá viedla ku vzniku monodického štýlu a opery. Vysvetlite
@@ -75,6 +196,12 @@
     princípy *prima* a *seconda pratica* v jeho tvorbe. Načrtnite
     podstatu jeho opernej reformy a jej prínos pre komerčný úspech
     tohto hudobného druhu.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 **Pri vypracovaní využite:**
 
@@ -93,12 +220,24 @@
 
 - **a)** definujte pojem interval. Vysvetlite princíp tvorenia intervalov --
     základných, odvodených, rozšírených, enharmonických.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **b)** na notových príkladoch vysvetlite vznik a vývoj viachlasu
     v stredoveku. Identifikujte vox principalis (cantus firmus)
     v ukážkach a jeho vzťah (melodicko-harmonický, rytmický)
     k ostatným hlasom vo faktúre. Vysvetlite základný kompozičný
     princíp izorytmickej techniky.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **c)** vysvetlite pojem neo-klasicizmus (-barok, -renesancia \...) v hudbe.
     Vysvetlite, akým spôsobom pracujú skladatelia s prvkami hudby
@@ -106,6 +245,12 @@
     klasicizujúcim tendenciám. Vymenujte autorov, ktorí vo svojej
     tvorbe uplatnili prvky „neo -- štýlov". Uveďte príklady takýchto
     diel.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 **Pri vypracovaní využite:**
 
@@ -126,16 +271,34 @@
 - **a)** stručne charakterizujte hlavné druhy sakrálnej hudby: omša, requiem,
     oratórium, pašie, duchovná pieseň. Vysvetlite pojmy cirkevná,
     duchovná, sakrálna a liturgická hudba.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **b)** vymenujte hlavné časti omšového ordinária. Stručne načrtnite spôsoby
     jeho kompozičného stvárnenia v priebehu hudobnej histórie. Na
     základe notovej ukážky vysvetlite hlavný jednotiaci prvok tzv.
     tenorovej omše.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **c)** vymenujte dôležité osobnosti svetovej a slovenskej hudby a diela
     z okruhu sakrálnej tvorby a ich vzťah k náboženstvu a k liturgii.
     Uveďte príklady diel, ktoré nesú duchovný odkaz bez priameho
     súvisu s konkrétnym náboženským obradom.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 **Pri vypracovaní využite:**
 
@@ -156,9 +319,21 @@
 
 - **a)** charakterizujte hlavné rozdiely medzi vokálnym (renesančným)
     a inštrumentálnym (barokovým) kontrapunktom.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **b)** na základe notovej ukážky vysvetlite základné princípy formy
     invencie. Pomenujte a ohraničte hlavné formové diely a úseky.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **c)** načrtnite súvis medzi rozvojom hudobného nástrojárstva a rozmachom
     inštrumentálnej hudby v období baroka. Vymenujte a stručne
@@ -166,6 +341,12 @@
     inštrumentálnej hudby v období baroka. Vymenujte skladateľov,
     ktorí sa venovali tvorbe pre klávesové, strunové nástroje
     a komornej tvorbe v období baroka.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 **Pri vypracovaní využite:**
 
@@ -184,17 +365,35 @@
 
 - **a)** definujte pojem imitačný kontrapunkt. Vysvetlite hlavné techniky
 imitačného kontrapunktu (prísna a voľná imitácia, inverzia, račí
-postup, permutácia, augmentácia, diminúci- **a)**
+postup, permutácia, augmentácia, diminúcia.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **b)** na základe notovej ukážky vysvetlite kompozičné princípy fúgy.
 Vysvetlite vzťah dux -- comes. Kedy je comes reálny a kedy tonálny?
 Ohraničte hlavné formové diely a úseky fúgy a popíšte tonálny plán.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **c)** charakterizujte život a dielo Johanna Sebastiana Bacha. Vymenujte
 hudobné druhy a žánre, ktorým sa venoval vo svojej tvorbe a uveďte
 súvislosti s jeho profesionálnym hodobným pôsobiskom. Uveďte jeho
 najdôležitejšie diela. Načrtnite reflexiu (odkaz) Bachovej hudby od
 jeho smrti po súčasnosť.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 **Pri vypracovaní využite:**
 
@@ -213,6 +412,12 @@ jeho smrti po súčasnosť.
 
 - **a)** vymenujte hlavné typy malých (piesňových) foriem. V notových
     ukážkach ohraničte jednotlivé formové diely.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **b)** vysvetlite pojem pieseň a piesňový cyklus. Charakterizujte pojmy
     strofická pieseň, čiastočne prekomponovaná a prekomponovaná
@@ -220,11 +425,23 @@ jeho smrti po súčasnosť.
     živote 19. a 20. storočia. Vymenujte európskych a slovenských
     skladateľov, ktorí sa venovali piesňovej tvorbe a charakterizujte
     reprezentatívne diela piesňovej literatúry.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **c)** charakterizujte vzťah európskych a slovenských skladateľov
     k folklóru a ľudovej piesni v priebehu dejín a vysvetlite ich
     historické súvislosti. Uveďte príklady diel inšpirovaných
     folklórom.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 **Pri vypracovaní využite:**
 
@@ -248,14 +465,32 @@ jeho smrti po súčasnosť.
     jednotlivých veľkých a malých dielov a ich vzájomný tonálny vzťah.
     Nájdite v skladbe dominantný septakord, prípadne jeho obraty
     a vysvetlite pravidlá rozvedenia dominantného septakordu.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **b)** Stručne charakterizujte hlavné druhy vokálno-inštrumentálnej hudby:
     opera, oratórium, melodráma, kantáta, pieseň. Vysvetlite pojem
     *ária da Capo.*
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **c)** Charakterizujte podstatu reformy opery seria Christopha Willibalda
     Glucka v 18. st. ako reakciu na krízu talianskej opery. V ktorých
     prvkoch sa inšpirovala francúzskou operou?
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 **Pri vypracovaní využite:**
 
@@ -273,17 +508,35 @@ jeho smrti po súčasnosť.
 
 - **a)** vysvetlite rozdiely medzi veľkou formou zloženou a plynulou.
     V notovej ukážke ohraničte jednotlivé formové diely.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **b)** vysvetlite pojmy tonálne vybočenie, tóninový skok, modulácia.
     Vymenujte typy modulácií a vysvetlite ich priebeh. V notovej
     ukážke analyzujte harmonický a tonálny priebeh skladby
     a vysvetlite, či ide o tonálne vybočenie, tóninový skok alebo
     moduláciu.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **c)** Vysvetlite postavenie klavíra v 19. storočí ako nástroja
     univerzálneho umeleckého vyjadrenia skladateľa. Charakterizujte
     klavírnu tvorbu skladateľov obdobia romantizmu. Vysvetlite ich
     prínos pre rozvoj klavírnej techniky.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 **Pri vypracovaní využite:**
 
@@ -398,7 +651,6 @@ jeho smrti po súčasnosť.
 - notové príklady, notový papier, klavír, multimediálne ukážky, počítač
 - notová a multimediálna ukážka:
   - Felix Mendelssohn-Bartholdy: Koncert pre husle a orchester e mol
-  ![](https://www.youtube.com/watch?v=vzbC39utkTw)
 - Multimediálna ukážka:
   - Antonio Vivaldi: Štyri ročné obdobia: Jar
 
@@ -411,17 +663,35 @@ jeho smrti po súčasnosť.
 - **a)** vysvetlite rozdiel medzi malými rondovými formami a sonátovým
     rondom. Charakterizujte spoločné a rozdielne prvky sonátového
     ronda a sonátovej formy.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **b)** analyzujte priloženú ukážku. Určite, aký typ rondovej formy je tu
     uplatnený. Charakterizujte spôsob motivicko-tematickej práce a
     vysvetlite úlohu dynamiky a artikulácie ako významného
     tektonického prvku v skladbe.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **c)** charakterizujte život a tvorbu Ludwiga van Beethovena. Na základe
     notovej a zvukových ukážok popíšte individuálne prvky jeho
     hudobnej reči. Vysvetlite jeho prínos v oblasti symfonickej
     a klavírnej tvorby pre ďalší vývoj európskej hudby. Vymenujte
     kľúčové diela a ich význam.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 **Pri vypracovaní využite:**
 
@@ -439,16 +709,34 @@ jeho smrti po súčasnosť.
 
 - **a)** vysvetlite pojem sonáta a jeho použitie v dejinách hudby.
     Charakterizujte základné formové princípy sonátovej formy.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **b)** na základe notovej ukážky vysvetlite priebeh sonátovej formy.
     Ohraničte jednotlivé diely. Vysvetlite vzťah medzi hlavnou
     a vedľajšou témou. Čo je to tonálne vyrovnanie? Vysvetlite jeho
     funkciu.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **c)** načrtnite okolnosti formovania hudobného klasicizmu. Charakterizujte
     hlavné štýlové znaky viedenského klasicizmu. Charakterizujte život
     a dielo Josepha Haydna a Wolfganga Amadea Mozarta. Vymenujte ich
     kľúčové diela.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 **Pri vypracovaní využite:**
 
@@ -468,15 +756,33 @@ jeho smrti po súčasnosť.
 - **a)** charakterizujte kompozičný princíp variačnej formy. Vysvetlite
     termíny *vonkajšie* a *vnútorné variácie, ornamentálne variácie,
     charakteristické variácie.* Charakterizujte podstatu
-    kontrapunktických variácií (ciaccona, passacaglia\...)
+    kontrapunktických variácií (ciaccona, passacaglia...)
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **b)** analyzujte priloženú notovú ukážku. Charakterizujte tému
     a vysvetlite spôsob variačnej práce v skladbe.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **c)** vysvetlite vzťah romantických skladateľov k národným témam a ich
     súvis so spoločenskou klímou v Európe 19. storočia. Uveďte
     príklady skladieb, ktoré prinášajú národné témy. Vymenujte
-    predstaviteľov tzv. národných škôl a ich reprezentatívne diela
+    predstaviteľov tzv. národných škôl a ich reprezentatívne diela.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 **Pri vypracovaní využite:**
 
@@ -498,14 +804,32 @@ jeho smrti po súčasnosť.
     a *sonátový cyklus.* Popíšte najčastejšie riešenia 3-
     a 4-časťového sonátového cyklu. Vymenujte hudobné druhy, ktoré
     bývajú realizované ako sonátový cyklus.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **b)** spomedzi klavírnych sonát Ludwiga van Beethovena vyberte príklady
     obvyklých a neobvyklých riešení sonátového cyklu.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **c)** načrtnite vývoj symfónie a symfonickej tvorby obdobia 19.
     a začiatku 20. storočia. Vysvetlite vplyv Beethovenovej
     symfonickej tvorby na nasledujúce generácie skladateľov a miesto
     symfónie a symfonickej hudby v hudobnej kultúre.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 **Pri vypracovaní využite:**
 
@@ -575,10 +899,22 @@ jeho smrti po súčasnosť.
 - **a)** vysvetlite pojmy *motív* a *téma.* Vymenujte typy motívov a opíšte
     základné možnosti motivickej práce. Vysvetlite pojem *veta*
     a *súvetie*.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **b)** na základe notovej ukážky vysvetlite pojem *periodická výstavba
     hudobnej formy.* Charakterizujte motivicko-tematickú prácu. Určite
     typy záverov jednotlivých fráz a viet. Určite typ hudobnej formy.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **c)** charakterizujte situáciu v hudbe okolo polovice 18. storočia
     z hľadiska štýlovej rôznorodosti. Vymenujte hlavné centrá
@@ -586,6 +922,12 @@ jeho smrti po súčasnosť.
     štýl, citlivý štýl a raný klasicizmus. Uveďte hlavných
     predstaviteľov týchto štýlových línií a charakterizujte ich
     tvorbu.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 **Pri vypracovaní využite:**
 
@@ -608,16 +950,34 @@ jeho smrti po súčasnosť.
     renesančného (vokálneho kontrapunku). Vysvetlite zásady vedenia
     hlasov v renesančnom kontrapunkte. Vysvetlite, akým spôsobom
     vplýva text na podobu hudobnej formy.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **b)** na základe notových ukážok vysvetlite žánrové a štýlové rozdiely
     medzi renesančným madrigalom a renesančným motetom z hľadiska
     vzťahu hudby a textu, faktúry, rytmiky a melodiky. Nájdite
     v notových ukážkach príklady využitia hudobno-rétorických figúr.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **c)** načrtnite podstatu hudobného myslenia novoromantizmu. Vysvetlite
     pojmy *absolútna* a *programová hudba.* Vymenujte hlavné hudobné
     druhy programovej hudby. Charakterizujte tvorbu hlavných
     predstaviteľov novoromantického hnutia 19. storočia.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 **Pri vypracovaní využite:**
 
@@ -639,15 +999,33 @@ jeho smrti po súčasnosť.
     hlavné harmonické funkcie. Vysvetlite pojem *akordický*
     a *melodický tón*. Vymenujte druhy melodických tónov. Vymenujte
     hlavné typy melodických ozdôb a opíšte spôsob ich realizácie.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **b)** analyzujte notovú ukážku z hľadiska využitia hlavných harmonických
     funkcií. Vysvetlite použitie molovej subdominanty. Nájdite
     v ukážke rôzne druhy melodických tónov. Aká melodická ozdoba sa tu
     vyskytuje?
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **c)** charakterizujte vývoj talianskej opery 19. storočia. Vymenujte
     predstaviteľov jednotlivých generácií talianskej opery
     a charakterizujte ich tvorbu. Uveďte najdôležitejšie diela.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 **Pri vypracovaní využite:**
 
@@ -667,10 +1045,22 @@ jeho smrti po súčasnosť.
 - **a)** vysvetlite základné formotvorné (tektonické) princípy v hudbe.
     Vymenujte základné a doplnkové tektonické typy hudby z hľadiska
     ich dôležitosti a funkcie v hudobnej forme.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **b)** analyzujte ukážku z formového hľadiska a ukážte jednotlivé
     tektonické typy hudby. Vysvetlite, akým spôsobom pracuje skladateľ
     so základnými tektonickými princípmi v skladbe.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **c)** charakterizujte hudobnú kultúru obdobia postmoderny. Načrtnite
     stieranie hraníc medzi „klasickou" a „populárnou" kultúrou.
@@ -678,6 +1068,12 @@ jeho smrti po súčasnosť.
     hlavných svetových a slovenských predstaviteľov. Vysvetlite
     podstatu *minimal music.* Vymenujte hlavných predstaviteľov a ich
     kľúčové diela.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 **Pri vypracovaní využite:**
 
@@ -700,9 +1096,21 @@ jeho smrti po súčasnosť.
     telesá a nástrojové zoskupenia v klasickej hudbe. Uveďte príklady
     hudobných zoskupení v nonartificiálnej hudbe (jazz, rock, ľudové
     hudba a pod.)
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **b)** na základe notovej ukážky vysvetlite radenie nástrojov v partitúre.
     Stručne vysvetlite problematiku transponujúcich nástrojov.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **c)** charakterizujte hlavné prúdy v povojnovej hudobnej avantgarde
     z hľadiska jej snahy o zvukovú inováciu: *musique concréte,
@@ -711,6 +1119,12 @@ jeho smrti po súčasnosť.
     Priblížte problematiku zápisu týchto kompozícií a princíp
     grafickej partitúry. Uveďte hlavných predstaviteľov týchto smerov
     s dôrazom na ich hudobnú tvorbu.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 **Pri vypracovaní využite:**
 
@@ -730,9 +1144,21 @@ jeho smrti po súčasnosť.
 - **a)** vysvetlite postup pri 4-hlasnej úprave kvintakordu (polohu akordu,
     sadzbu akordu). Vysvetlite pravidlá spájania akordov v prísnom
     a voľnom spoji.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **b)** analyzujte priloženú notovú ukážku z hľadiska použitia sadzby.
     Nájdite miesta s prísnymi a s voľnými spojmi.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **c)** vysvetlite, ako politické udalosti zasahovali do hudobnej tvorby
     v priebehu histórie. Uveďte príklady diel, ktoré reagujú na
@@ -741,6 +1167,12 @@ jeho smrti po súčasnosť.
     v Západnej a Východnej Európe v čase tzv. Železnej opony. Čo to
     znamená angažovaná tvorba? Ako ovplyvnila tvorbu skladateľov
     cenzúra a autocenzúra? Uveďte príklady.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 **Pri vypracovaní využite:**
 
@@ -759,17 +1191,35 @@ jeho smrti po súčasnosť.
 
 - **a)** vysvetlite pojem *dynamika*. Vymenujte hlavné spôsoby zápisu
     dynamiky v skladbe a základné dynamické značky.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **b)** na základe notovej ukážky vysvetlite funkciu prirodzených a umelých
     citlivých tónov a ich úlohu vo vnútornej dynamike skladby. Nájdite
     v ukážke príklady mimotonálnych akordov a vysvetlite ich
     harmonický kontext.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **c)** charakterizujte vývoj opernej tvorby vo Francúzsku a v Nemecku v 19.
     storočí. Vymenujte hlavné žánrové druhy opery a jej
     predstaviteľov. Vysvetlite podstatu opernej reformy Richarda
     Wagnera. Čo je to *Gesamtkunstwerk*? Vysvetlite podstatu
     používania *Leitmotívov*.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 **Pri vypracovaní využite:**
 
@@ -789,17 +1239,35 @@ jeho smrti po súčasnosť.
 - **a)** vysvetlite princíp vedľajších harmonických funkcií. Vymenujte prvé
     a druhé modifikácie toniky, subdominanty a dominanty. Vysvetlite
     ich akordickú príbuznosť s hlavnými harmonickými funkciami.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **b)** vysvetlite princíp rondovej techniky. Vymenujte hlavné formové
     schémy tzv. malého ronda. Analyzujte notový príklad -- ohraničte
     základné formové diely a charakterizujte ich z hľadiska tonálneho
     priebehu a motivicko-tematickej práce.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 - **c)** charakterizujte vzťah skladateľov k detskému poslucháčovi a
     interpretovi. Ktoré diela sú venované deťom a mladým? Poznáte
     diela, ktoré sú hudobným vtipom, hrou? Čo je to inštruktívna
     literatúra? Vymenujte autorov, ktorí sa venujú inštruktívnej
     tvorbe pre váš nástroj.
+- <details>
+    <summary>Vypracovanie</summary>
+
+  -
+
+  </details><br/>
 
 **Pri vypracovaní využite:**
 
