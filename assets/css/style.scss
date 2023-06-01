@@ -21,8 +21,8 @@ details>summary:hover {
     cursor: pointer
 }
 
-details::marker {
-    content: "";
+details summary::-webkit-details-marker {
+    display: none;
 }
 
 :not(details)>ul>li>p+ul {
