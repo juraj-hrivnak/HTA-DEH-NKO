@@ -21,6 +21,10 @@ details>summary:hover {
     cursor: pointer
 }
 
+details::marker {
+    content: "";
+}
+
 :not(details)>ul>li>p+ul {
     position: relative;
     top: -44px;
@@ -65,7 +69,7 @@ details>summary:hover {
   position: relative;
 }
 
-:not(details)>ul>li>p+ul li:after {
+:not(details)>ul>li>p+ul li::after {
   position: absolute;
   top: 0;
   left: 0;
@@ -81,7 +85,7 @@ details>summary:hover {
   background: #fff;
 }
 
-:not(details)>ul>li>p+ul li:before {
+:not(details)>ul>li>p+ul li::before {
   position: absolute;
   left: 13px;
   top: 0;
@@ -91,6 +95,6 @@ details>summary:hover {
   border-left: 2px dashed #697579;
 }
 
-:not(details)>ul>li>p+ul li:last-of-type:before {
+:not(details)>ul>li>p+ul li:last-of-type::before {
   border: none;
 }
