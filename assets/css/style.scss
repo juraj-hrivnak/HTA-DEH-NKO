@@ -20,3 +20,11 @@ details[open] > summary::before {
 details > summary:hover {
     cursor: pointer;
 }
+
+#back-to-top {
+    color: black;
+    display: inline-block;
+    right: 10px;
+    background: white;
+    background-blend-mode: darken;
+}
