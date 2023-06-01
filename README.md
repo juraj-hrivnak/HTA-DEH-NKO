@@ -1,7 +1,3 @@
-# Maturitné témy Hudba Spev
-
-***
-
 ## Téma č.1
 
 **Názov témy:** ČAS A POHYB V HUDBE
@@ -830,7 +826,7 @@ jeho smrti po súčasnosť.
 
     3. Paralelné harmónie: Skladatelia impresionizmu často používajú paralelné harmónie, čo znamená, že melódia a harmónie môžu byť v rôznych tóninách alebo vytvárať zvukovú atmosféru bez jasne definovanej tóniny. To prispieva k nejasnosti a fluidite hudobného prejavu.
 
-    4. Ritmus a metrum: Impresionistická hudba sa často vyznačuje voľným rytmom a flexibilným metrom. Skladatelia uprednostňujú fluidné a organické pohyby, aby vytvorili dojem prúdenia a pohybu.
+    4. Rytmus a metrum: Impresionistická hudba sa často vyznačuje voľným rytmom a flexibilným metrom. Skladatelia uprednostňujú fluidné a organické pohyby, aby vytvorili dojem prúdenia a pohybu.
 
     5. Pentatonika a modálna melodika: Impresionistická hudba často využíva pentatoniku a modálne stupnice na vytvorenie exotických a vzdialených tónov. Tieto modálne melódie majú tendenciu evokovať náladu alebo prírodné scenérie.
 
