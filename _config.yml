@@ -5,4 +5,5 @@ plugins:
 - jekyll-remote-theme
 - jekyll-titles-from-headings
 - jekyll-relative-links
+- jekyll-spaceship
 markdown: GFM
