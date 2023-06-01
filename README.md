@@ -398,6 +398,7 @@ jeho smrti po súčasnosť.
 - notové príklady, notový papier, klavír, multimediálne ukážky, počítač
 - notová a multimediálna ukážka:
   - Felix Mendelssohn-Bartholdy: Koncert pre husle a orchester e mol
+  ![](https://www.youtube.com/embed/vzbC39utkTw?feature=oembed)
 - Multimediálna ukážka:
   - Antonio Vivaldi: Štyri ročné obdobia: Jar
 
