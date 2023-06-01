@@ -1,3 +1,7 @@
+# Maturitné témy Hudba Spev
+
+***
+
 ## Téma č.1
 
 **Názov témy:** ČAS A POHYB V HUDBE
@@ -178,15 +182,15 @@
 
 **Názov témy:** FÚGA -- BACH
 
-a\) definujte pojem imitačný kontrapunkt. Vysvetlite hlavné techniky
+- **a)** definujte pojem imitačný kontrapunkt. Vysvetlite hlavné techniky
 imitačného kontrapunktu (prísna a voľná imitácia, inverzia, račí
 postup, permutácia, augmentácia, diminúci- **a)**
 
-b\) na základe notovej ukážky vysvetlite kompozičné princípy fúgy.
+- **b)** na základe notovej ukážky vysvetlite kompozičné princípy fúgy.
 Vysvetlite vzťah dux -- comes. Kedy je comes reálny a kedy tonálny?
 Ohraničte hlavné formové diely a úseky fúgy a popíšte tonálny plán.
 
-c\) charakterizujte život a dielo Johanna Sebastiana Bacha. Vymenujte
+- **c)** charakterizujte život a dielo Johanna Sebastiana Bacha. Vymenujte
 hudobné druhy a žánre, ktorým sa venoval vo svojej tvorbe a uveďte
 súvislosti s jeho profesionálnym hodobným pôsobiskom. Uveďte jeho
 najdôležitejšie diela. Načrtnite reflexiu (odkaz) Bachovej hudby od
