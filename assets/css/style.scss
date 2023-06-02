@@ -166,3 +166,20 @@ details>ul>li::before {
 details>ul>li:last-of-type::before {
     border: none
 }
+
+.btn.done::before {
+    position: relative;
+    margin-left: 3px;
+    top: -1px;
+    right: 4px;
+    counter-increment: steps;
+    content: "✓";
+    border: 2px solid;
+    border-radius: 50%;
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    font-size: 10px;
+    text-align: center;
+    line-height: 11px;
+}
