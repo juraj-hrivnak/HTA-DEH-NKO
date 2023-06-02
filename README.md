@@ -177,145 +177,152 @@
 - <details>
     <summary>Vypracovanie</summary>
 
-  1. **Akord** je súzvuk najmenej troch tónov. Ak tieto tóny zaznievajú melodicky, po sebe, hovoríme o rozloženom akorde.
+  - **Akord** je súzvuk najmenej troch tónov. Ak tieto tóny zaznievajú melodicky, po sebe, hovoríme o rozloženom akorde.
 
-      - Rozoznávame základné a odvodené akordy (obraty).
+    - Rozoznávame základné a odvodené akordy (obraty).
 
-        - *Základné akordy* sa stavajú postupným navršovaním tercií nad seba. Tieto tzv. terciové akordy pozostávajú z troch až siedmich rôznych tónov usporiadaných do terciovej štruktúry tak, že medzi susednými tónmi je vždy vzdialenosť tercie (interval tercie).
+    - *Základné akordy* sa stavajú postupným navršovaním tercií nad seba. Tieto tzv. terciové akordy pozostávajú z troch až siedmich rôznych tónov usporiadaných do terciovej štruktúry tak, že medzi susednými tónmi je vždy vzdialenosť tercie (interval tercie).
 
-          Prvý tón v terciovej zostave sa nazýva *základný tón* akordu (prima). Tento základný tón je na začiatku názvu každého akordu a píšeme ho vždy veľkým písmenom.
+      Prvý tón v terciovej zostave sa nazýva *základný tón* akordu (prima). Tento základný tón je na začiatku názvu každého akordu a píšeme ho vždy veľkým písmenom.
 
-          Ostatné tóny akordu nazývame podľa intervalového vzťahu k tónu základnému: tercia (3), kvinta (5), septima (7), nóna (9), undecima (11) a tercdecima (13).
+      Ostatné tóny akordu nazývame podľa intervalového vzťahu k tónu základnému:
 
-          ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.001.png)
+      - tercia (3)
+      - kvinta (5)
+      - septima (7)
+      - nóna (9)
+      - undecima (11)
+      - tercdecima (13)
 
-          Podľa **rámcového intervalu\* akordu v základnom tvare**, ich nazývame:
+      ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.001.png)
 
-          - Kvintakordy
-          - Septakordy
-          - Nónakordy / nónové akordy
-          - Undecimové akordy
-          - Tercdecimové akordy
+      Podľa **rámcového intervalu\* akordu v základnom tvare**, ich nazývame:
 
-          (\* rámcový interval vyjadruje rozsah hudobného útvaru od jeho najnižšieho po najvyšší tón. Napr.: rozsah melódie, stupnice, akordu atď.)
+      - Kvintakordy
+      - Septakordy
+      - Nónakordy / nónové akordy
+      - Undecimové akordy
+      - Tercdecimové akordy
 
-          ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.002.png)
+      (\* rámcový interval vyjadruje rozsah hudobného útvaru od jeho najnižšieho po najvyšší tón. Napr.: rozsah melódie, stupnice, akordu atď.)
 
-          Prvé dve triedy (kvintakordy a septakordy) sa súhrnne nazývajú **akordy nižšej terciovej stavby**, ktoré nepresahujú v základnom tvare interval oktávy. Ostatné triedy (9, 11, 13) sa nazývajú **akordy vyššej terciovej stavby**, ktoré v základnom tvare presahujú interval oktávy.
+      ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.002.png)
 
-          Najjednoduchším základným akordom je **kvintakord**. ***Skladá sa*** z troch tónov (skladá sa = vzdialenosť tónov akordu od základného tónu):
+      Prvé dve triedy (kvintakordy a septakordy) sa súhrnne nazývajú **akordy nižšej terciovej stavby**, ktoré nepresahujú v základnom tvare interval oktávy. Ostatné triedy (9, 11, 13) sa nazývajú **akordy vyššej terciovej stavby**, ktoré v základnom tvare presahujú interval oktávy.
 
-          - základný tón
-          - tercia akordu
-          - kvinta akordu
+      Najjednoduchším základným akordom je **kvintakord**. ***Skladá sa*** z troch tónov (skladá sa = vzdialenosť tónov akordu od základného tónu):
 
-          Každý kvintakord je ***zostavený*** z dvoch tercií nad sebou (zostavený = intervaly od tónu k tónu akordu).
+      - základný tón
+      - tercia akordu
+      - kvinta akordu
 
-          Ďalším akordom je **septakord. *Skladá sa*** zo štyroch tónov:
+      Každý kvintakord je ***zostavený*** z dvoch tercií nad sebou (zostavený = intervaly od tónu k tónu akordu).
 
-          - základný tón
-          - tercia akordu
-          - kvinta akordu
-          - septima akordu
+      Ďalším akordom je **septakord. *Skladá sa*** zo štyroch tónov:
 
-          (alebo môžme tiež povedať, že sa skladá z kvintakordu a septimy).
+      - základný tón
+      - tercia akordu
+      - kvinta akordu
+      - septima akordu
 
-          Septakord je ***zostavený*** z troch tercií nad sebou.
+      (alebo môžme tiež povedať, že sa skladá z kvintakordu a septimy).
 
-  2. Základné druhy kvintakordov a septakordov:
+      Septakord je ***zostavený*** z troch tercií nad sebou.
 
-      - **Kvintakordy:**
+  - Základné druhy kvintakordov a septakordov:
 
-        1. **Durový kvintakord,** ktorý sa **skladá** z veľkej tercie a z čistej kvinty.
+    - **Kvintakordy:**
 
-            - **Zostavený** je z veľkej a malej tercie.
+      - **Durový kvintakord,** ktorý sa **skladá** z veľkej tercie a z čistej kvinty.
 
-        2. **Molový kvintakord,** ktorý sa **skladá** z malej tercie a z čistej kvinty.
+        - **Zostavený** je z veľkej a malej tercie.
 
-            - **Zostavený** je z malej a veľkej tercie.
+      - **Molový kvintakord,** ktorý sa **skladá** z malej tercie a z čistej kvinty.
 
-        3. **Zväčšený kvintakord,** ktorý sa **skladá** z veľkej tercie a zo zväčšenej kvinty.
+        - **Zostavený** je z malej a veľkej tercie.
 
-            - **Zostavený** je z dvoch veľkých tercií nad sebou.
+      - **Zväčšený kvintakord,** ktorý sa **skladá** z veľkej tercie a zo zväčšenej kvinty.
 
-        4. **Zmenšený kvintakord,** ktorý sa **skladá** z malej tercie a zo zmenšenej kvinty.
+        - **Zostavený** je z dvoch veľkých tercií nad sebou.
 
-            - **Zostavený** je z dvoch malých tercií nad sebou.
+      - **Zmenšený kvintakord,** ktorý sa **skladá** z malej tercie a zo zmenšenej kvinty.
 
-        **Akordická značka:**
+        - **Zostavený** je z dvoch malých tercií nad sebou.
 
-          ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.003.png)
+      **Akordická značka:**
 
-          Durový a molový kvintakord sú “konsonantné akordy” (spoluznejúce, pokojné) => konzonantnosť je daná tým, že v nich je čistá kvinta. Zväčšený a zmenšený kvintakord dú “disonantné akordy” (rôzne znejúce alebo nespoluznejúce, napäté).
+        ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.003.png)
 
-      - **Septakordy:**
+        Durový a molový kvintakord sú “konsonantné akordy” (spoluznejúce, pokojné) => konzonantnosť je daná tým, že v nich je čistá kvinta. Zväčšený a zmenšený kvintakord dú “disonantné akordy” (rôzne znejúce alebo nespoluznejúce, napäté).
 
-          Podľa kvality kvintakordu a septimy majú *septakordy* svoje názvy:
+    - **Septakordy:**
 
-        1. Septakord, ktorý sa skladá z durového kvintakordu a malej septimy, nazývame **durovo-malý.** V harmónii patrí medzi najdôležitejšie akordy, medzi tzv. charakteristické disonancie. Z harmonického hľadiska ho nazývame tiež *dominantným septakordom.*
+      Podľa kvality kvintakordu a septimy majú *septakordy* svoje názvy:
 
-        2. Septakord, ktorý sa skladá z durového kvintakordu a veľkej septimy, nazývame **durovo-veľkým** (alebo krátko “veľkým”).
+      - Septakord, ktorý sa skladá z durového kvintakordu a malej septimy, nazývame **durovo-malý.** V harmónii patrí medzi najdôležitejšie akordy, medzi tzv. charakteristické disonancie. Z harmonického hľadiska ho nazývame tiež *dominantným septakordom.*
 
-        3. Septakord, ktorý sa skladá z molového kvintakordu a malej septimy, nazývame **molovo-malý**.
+      - Septakord, ktorý sa skladá z durového kvintakordu a veľkej septimy, nazývame **durovo-veľkým** (alebo krátko “veľkým”).
 
-        4. Septakord, ktorý sa skladá z molového kvintakordu a veľkej septimy, nazývame **molovo-veľký.**
+      - Septakord, ktorý sa skladá z molového kvintakordu a malej septimy, nazývame **molovo-malý**.
 
-        5. Septakord, ktorý sa skladá zo zväčšeného kvintakordu a veľkej septimy, nazývame **zväčšeno-veľký.**
+      - Septakord, ktorý sa skladá z molového kvintakordu a veľkej septimy, nazývame **molovo-veľký.**
 
-        6. Septakord, ktorý sa skladá zo zmenšeného kvintakordu a malej septimy, nazývame **zmenšeno-malý.**
+      - Septakord, ktorý sa skladá zo zväčšeného kvintakordu a veľkej septimy, nazývame **zväčšeno-veľký.**
 
-        7. Septakord, ktorý sa skladá zo zmenšeného kvintakordu a zmenšenej septimy, nazývame **zmenšeno-zmenšený** alebo častejšie **zmenšený.**
+      - Septakord, ktorý sa skladá zo zmenšeného kvintakordu a malej septimy, nazývame **zmenšeno-malý.**
 
-        **Akordická značka:**
+      - Septakord, ktorý sa skladá zo zmenšeného kvintakordu a zmenšenej septimy, nazývame **zmenšeno-zmenšený** alebo častejšie **zmenšený.**
 
-        ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.004.png)
+      **Akordická značka:**
 
-        Všetky septakordy sú akordy “disonantné” (rôzne znejúce alebo nespoluznejúce, napäté).
+      ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.004.png)
 
-  3. **Obraty:**
-      - **Kvintakord:** Kvintakordy sú základné tvary akordov. Z nich odvodené ostatné tvary akordických trojzvukov sú obraty kvintakordov.
+      Všetky septakordy sú akordy “disonantné” (rôzne znejúce alebo nespoluznejúce, napäté).
 
-        Podobne ako obraty intervalov, vznikajú aj obraty kvintakordov preskupením (permutáciou) tónov kvintakordu tak, aby sa rozličné tóny dostali na spodok akordu. Intervaly, z ktorých boli kvintakordy zostavené, sa pri obratoch menia a sú nahradené svojimi intervalovými obratmi.
+  - **Obraty:**
+    - **Kvintakord:** Kvintakordy sú základné tvary akordov. Z nich odvodené ostatné tvary akordických trojzvukov sú obraty kvintakordov.
 
-        Z harmonického hľadiska sú pre obraty dôležité dva tóny:
+      Podobne ako obraty intervalov, vznikajú aj obraty kvintakordov preskupením (permutáciou) tónov kvintakordu tak, aby sa rozličné tóny dostali na spodok akordu. Intervaly, z ktorých boli kvintakordy zostavené, sa pri obratoch menia a sú nahradené svojimi intervalovými obratmi.
 
-          - a) **základný tón pôvodného kvintakordu**
+      Z harmonického hľadiska sú pre obraty dôležité dva tóny:
 
-          - b) **spodný tón obratu** (nazýva sa **basový tón**)
+      - a) **základný tón pôvodného kvintakordu**
 
-        Prvý obrat kvintakordu získame preskupením tónov kvintakordu tak, aby sa basovým tónom stala tercia kvintakordu (prenesenie základného tónu o oktávu vyššie, nad terciu a kvintu kvintakordu).
+      - b) **spodný tón obratu** (nazýva sa **basový tón**)
 
-        Celkovým rozsahom tohto akordu bude sexta a tento akord nazývame **sextakordom**.
+      Prvý obrat kvintakordu získame preskupením tónov kvintakordu tak, aby sa basovým tónom stala tercia kvintakordu (prenesenie základného tónu o oktávu vyššie, nad terciu a kvintu kvintakordu).
 
-        ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.005.png)
+      Celkovým rozsahom tohto akordu bude sexta a tento akord nazývame **sextakordom**.
 
-        Druhý obrat kvintakordu vznikne, ak sa po preskupení tónov stane basovým tónom kvinta kvintakordu.
+      ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.005.png)
 
-        (prenesenie základného tónu a tercie kvintakordu o oktávu vyššie, nad jeho kvintu).
+      Druhý obrat kvintakordu vznikne, ak sa po preskupení tónov stane basovým tónom kvinta kvintakordu.
 
-        Akord má tiež rozsah sexty, ale je utvorený z kvarty a z tercie, ktoré spolu túto sextu tvoria. Na rozlíšenie od prvého obratu sa i v jeho názve kvarta zdôrazňuje (i zvukovo v ňom kvarta viac vyniká) a nazývame ho **kvartsextakordom**.
+      (prenesenie základného tónu a tercie kvintakordu o oktávu vyššie, nad jeho kvintu).
 
-        ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.006.png)
+      Akord má tiež rozsah sexty, ale je utvorený z kvarty a z tercie, ktoré spolu túto sextu tvoria. Na rozlíšenie od prvého obratu sa i v jeho názve kvarta zdôrazňuje (i zvukovo v ňom kvarta viac vyniká) a nazývame ho **kvartsextakordom**.
 
-      - **Septakord:** Zo septakordov, ako základných akordických tvarov, vznikajú odvodené akordy - obraty, podobne ako z kvintakordov. Na rozdiel od kvintakordu má však septakord tri obraty.
+      ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.006.png)
 
-        Prvý obrat septakordu vznikne tak, že sa tercia septakordu stáva jeho basovým tónom (prenesenie základného tónu nad terciu, kvintu a septimu).
+    - **Septakord:** Zo septakordov, ako základných akordických tvarov, vznikajú odvodené akordy - obraty, podobne ako z kvintakordov. Na rozdiel od kvintakordu má však septakord tri obraty.
 
-        Pomenovanie obratu dostaneme, keď odsledujeme, kde sa nachádza interval sekundy => medzi kvintou a sextou. Tento obrat preto označujeme ako **kvintsextakord.**
+      Prvý obrat septakordu vznikne tak, že sa tercia septakordu stáva jeho basovým tónom (prenesenie základného tónu nad terciu, kvintu a septimu).
 
-        ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.007.png)
+      Pomenovanie obratu dostaneme, keď odsledujeme, kde sa nachádza interval sekundy => medzi kvintou a sextou. Tento obrat preto označujeme ako **kvintsextakord.**
 
-        Druhý obrat, ktorého basovým tónom je kvinta septakordu (prenesenie základného tónu a tercie nad kvintu a septimu).
+      ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.007.png)
 
-        Pomenovanie obratu dostaneme, keď odsledujeme, kde sa nachádza interval sekundy => medzi terciou a kvartou. Nazývame ho preto **terckvartakordom**.
+      Druhý obrat, ktorého basovým tónom je kvinta septakordu (prenesenie základného tónu a tercie nad kvintu a septimu).
 
-        ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.008.png)
+      Pomenovanie obratu dostaneme, keď odsledujeme, kde sa nachádza interval sekundy => medzi terciou a kvartou. Nazývame ho preto **terckvartakordom**.
 
-        Tretím obratom, ktorého basovým tónom je septima, je **sekundakord**.
+      ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.008.png)
 
-        Pomenovanie obratu dostaneme, keď odsledujeme, kde sa nachádza interval sekundy => medzi basovým tónom a sekundou.
+      Tretím obratom, ktorého basovým tónom je septima, je **sekundakord**.
 
-        ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.009.png)
+      Pomenovanie obratu dostaneme, keď odsledujeme, kde sa nachádza interval sekundy => medzi basovým tónom a sekundou.
+
+      ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.009.png)
 
   </details><br/>
 
