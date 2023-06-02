@@ -7,7 +7,7 @@
 **Názov témy:** ČAS A POHYB V HUDBE
 
 - **a)**
-  - Vysvetlite pojmy rytmus, metrum, takt, tempo a ich zaznamenávanie v notovom zápise.
+- Vysvetlite pojmy rytmus, metrum, takt, tempo a ich zaznamenávanie v notovom zápise.
 - <details>
     <summary>Vypracovanie</summary>
 
@@ -18,6 +18,7 @@
   - **Takt –** metro-rytmická jednotka, ohraničená taktovou čiarou.
 
     - **jednoduché** (majú 1 prízvučnú dobu – napr. ¾, 2/4...)
+
     - **zložené** (majú 2 a viac prízvukov  - napr. 4/4, 6/8 a pod.)
 
   - **Tempo –** rýchlosť pulzácie dôb, zapisuje sa
@@ -37,31 +38,31 @@
 - <details>
     <summary>Vypracovanie</summary>
 
-  - **Suita, suitový cyklus –** rad tancov alebo výber inštrumentálnej hudby z hudobno-dramatických diel (z baletu, muzikálu, scénickej alebo filmovej hudby a pod.), prípadne konceptuálny album (v jazze, v rocku a pod.).
+  1. **Suita, suitový cyklus –** rad tancov alebo výber inštrumentálnej hudby z hudobno-dramatických diel (z baletu, muzikálu, scénickej alebo filmovej hudby a pod.), prípadne konceptuálny album (v jazze, v rocku a pod.).
 
-    - **V baroku** sa používal aj pojem *ordre, partie, partita, ouverture...*
+      - **V baroku** sa používal aj pojem *ordre, partie, partita, ouverture...*
 
-    - Môže obsahovať aj netanečné časti (prelúdium, ouverture...)
+      - Môže obsahovať aj netanečné časti (prelúdium, ouverture...)
 
-    - **Rozdiel medzi** **suitovým a sonátovým cyklom je, že sonátový cyklus musí mať aspoň 1 časť v sonátovej forme!**
+      - **Rozdiel medzi** **suitovým a sonátovým cyklom je, že sonátový cyklus musí mať aspoň 1 časť v sonátovej forme!**
 
-  - **Barokové tance -** líšia sa tempovo (pomalé, rýchle), metricky (párne, nepárne), či majú alebo nemajú predtaktie, formovou štuktúrou (napr. pravidelné 8-taktia, alebo nepravidelné) a celkovou rytmickou idiomatikou (použitie sominovej pulzácie, prvá doba je dlhá hodnota a pod.), prípadne faktúrou (napr. gigue býva polyfónny, sarabanda býva kolorovaná ária a pod.). V barokových suitách je jednotiacim prvkom tónina, niekedy aj motivicko-tematický materiál – technika tzv. proportio* (hudba zostáva, zmení sa tempo a metrum)
+  2. **Barokové tance -** líšia sa tempovo (pomalé, rýchle), metricky (párne, nepárne), či majú alebo nemajú predtaktie, formovou štuktúrou (napr. pravidelné 8-taktia, alebo nepravidelné) a celkovou rytmickou idiomatikou (použitie sominovej pulzácie, prvá doba je dlhá hodnota a pod.), prípadne faktúrou (napr. gigue býva polyfónny, sarabanda býva kolorovaná ária a pod.). V barokových suitách je jednotiacim prvkom tónina, niekedy aj motivicko-tematický materiál – technika tzv. proportio* (hudba zostáva, zmení sa tempo a metrum)
 
-    - *allemande –* štvordobý tanec mierneho tempa s predtaktím, prvá doba je ležiaca, s drobnými rytmickými hodnotami vo figurácii (osminy, šestnástiny)
+      - *allemande –* štvordobý tanec mierneho tempa s predtaktím, prvá doba je ležiaca, s drobnými rytmickými hodnotami vo figurácii (osminy, šestnástiny)
 
-    - *courante –* trojdobý, rýchlejší s predtaktím, objavujú sa často hemioly v kadenciách. (zmeny metra napr. zo 6/8 na ¾ - vo vnútri, nezapísané)
+      - *courante –* trojdobý, rýchlejší s predtaktím, objavujú sa často hemioly v kadenciách. (zmeny metra napr. zo 6/8 na ¾ - vo vnútri, nezapísané)
 
-    - *sarabanda  -* trojdobý, veľmi pomalý, bez predtaktia. striedajú sa prízvuky na 1. a 2. dobu v takte. Často ako kolorovaná ária.
+      - *sarabanda  -* trojdobý, veľmi pomalý, bez predtaktia. striedajú sa prízvuky na 1. a 2. dobu v takte. Často ako kolorovaná ária.
 
-    - *gigue –* trojdobý, veľmi rýchly, s predtaktím alebo bez, najčastejšie ako 6/8 alebo 12/8 takt, imitačne vedené hlasy.
+      - *gigue –* trojdobý, veľmi rýchly, s predtaktím alebo bez, najčastejšie ako 6/8 alebo 12/8 takt, imitačne vedené hlasy.
 
-    - *menuet –* trojdobý, mierne tempo, bez predtaktia, pravidelná štruktúra, štrvťová alebo osminová pulzácia
+      - *menuet –* trojdobý, mierne tempo, bez predtaktia, pravidelná štruktúra, štrvťová alebo osminová pulzácia
 
-    - *gavotte –* 4/4, mierne rýchly, 2 štvťové noty ako predtaktie, na začiatku taktu polová hodnota (môže byť aj akordický rozklad s ležiacou harmóniou)
+      - *gavotte –* 4/4, mierne rýchly, 2 štvťové noty ako predtaktie, na začiatku taktu polová hodnota (môže byť aj akordický rozklad s ležiacou harmóniou)
 
-    - *bourrée –* rýchlejší, 4- dobý so štvrťovým predtaktím.
+      - *bourrée –* rýchlejší, 4- dobý so štvrťovým predtaktím.
 
-    - *siciliano –* 12/8 s predtaktím, s bodkovaným rytmom, mierneho až pomalého tempa
+      - *siciliano –* 12/8 s predtaktím, s bodkovaným rytmom, mierneho až pomalého tempa
 
     ďalšie tance – *canarie, loure, passacaglia, ciaccona (chaconne), folia, passamezzo, chorea (všeobecný názov pre tanec), polonaise...*
 
@@ -169,37 +170,275 @@
 
 **Názov témy:** AKORD -- MONÓDIA -- VZNIK OPERY
 
-- **a)** vysvetlite pojem akord. Vymenujte základné druhy kvintakordov
-    a septakordov. Vysvetlite základný princíp tvorby obratov akordov
-    a vymenujte obraty kvintakordu a septakordu.
+- **a)**
+  - Vysvetlite pojem akord.
+  - Vymenujte základné druhy kvintakordov a septakordov.
+  - Vysvetlite základný princíp tvorby obratov akordov a vymenujte obraty kvintakordu a septakordu.
 - <details>
     <summary>Vypracovanie</summary>
 
-  -
+  1. **Akord** je súzvuk najmenej troch tónov. Ak tieto tóny zaznievajú melodicky, po sebe, hovoríme o rozloženom akorde.
+
+      - Rozoznávame základné a odvodené akordy (obraty).
+
+        - *Základné akordy* sa stavajú postupným navršovaním tercií nad seba. Tieto tzv. terciové akordy pozostávajú z troch až siedmich rôznych tónov usporiadaných do terciovej štruktúry tak, že medzi susednými tónmi je vždy vzdialenosť tercie (interval tercie).
+
+          Prvý tón v terciovej zostave sa nazýva *základný tón* akordu (prima). Tento základný tón je na začiatku názvu každého akordu a píšeme ho vždy veľkým písmenom.
+
+          Ostatné tóny akordu nazývame podľa intervalového vzťahu k tónu základnému: tercia (3), kvinta (5), septima (7), nóna (9), undecima (11) a tercdecima (13).
+
+          ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.001.png)
+
+          Podľa **rámcového intervalu\* akordu v základnom tvare**, ich nazývame:
+
+          - Kvintakordy
+          - Septakordy
+          - Nónakordy / nónové akordy
+          - Undecimové akordy
+          - Tercdecimové akordy
+
+          (\* rámcový interval vyjadruje rozsah hudobného útvaru od jeho najnižšieho po najvyšší tón. Napr.: rozsah melódie, stupnice, akordu atď.)
+
+          ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.002.png)
+
+          Prvé dve triedy (kvintakordy a septakordy) sa súhrnne nazývajú **akordy nižšej terciovej stavby**, ktoré nepresahujú v základnom tvare interval oktávy. Ostatné triedy (9, 11, 13) sa nazývajú **akordy vyššej terciovej stavby**, ktoré v základnom tvare presahujú interval oktávy.
+
+          Najjednoduchším základným akordom je **kvintakord**. ***Skladá sa*** z troch tónov (skladá sa = vzdialenosť tónov akordu od základného tónu):
+
+          - základný tón
+          - tercia akordu
+          - kvinta akordu
+
+          Každý kvintakord je ***zostavený*** z dvoch tercií nad sebou (zostavený = intervaly od tónu k tónu akordu).
+
+          Ďalším akordom je **septakord. *Skladá sa*** zo štyroch tónov:
+
+          - základný tón
+          - tercia akordu
+          - kvinta akordu
+          - septima akordu
+
+          (alebo môžme tiež povedať, že sa skladá z kvintakordu a septimy).
+
+          Septakord je ***zostavený*** z troch tercií nad sebou.
+
+  2. Základné druhy kvintakordov a septakordov:
+
+      - **Kvintakordy:**
+
+        1. **Durový kvintakord,** ktorý sa **skladá** z veľkej tercie a z čistej kvinty.
+
+            - **Zostavený** je z veľkej a malej tercie.
+
+        2. **Molový kvintakord,** ktorý sa **skladá** z malej tercie a z čistej kvinty.
+
+            - **Zostavený** je z malej a veľkej tercie.
+
+        3. **Zväčšený kvintakord,** ktorý sa **skladá** z veľkej tercie a zo zväčšenej kvinty.
+
+            - **Zostavený** je z dvoch veľkých tercií nad sebou.
+
+        4. **Zmenšený kvintakord,** ktorý sa **skladá** z malej tercie a zo zmenšenej kvinty.
+
+            - **Zostavený** je z dvoch malých tercií nad sebou.
+
+        **Akordická značka:**
+
+          ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.003.png)
+
+          Durový a molový kvintakord sú “konsonantné akordy” (spoluznejúce, pokojné) => konzonantnosť je daná tým, že v nich je čistá kvinta. Zväčšený a zmenšený kvintakord dú “disonantné akordy” (rôzne znejúce alebo nespoluznejúce, napäté).
+
+      - **Septakordy:**
+
+          Podľa kvality kvintakordu a septimy majú *septakordy* svoje názvy:
+
+        1. Septakord, ktorý sa skladá z durového kvintakordu a malej septimy, nazývame **durovo-malý.** V harmónii patrí medzi najdôležitejšie akordy, medzi tzv. charakteristické disonancie. Z harmonického hľadiska ho nazývame tiež *dominantným septakordom.*
+
+        2. Septakord, ktorý sa skladá z durového kvintakordu a veľkej septimy, nazývame **durovo-veľkým** (alebo krátko “veľkým”).
+
+        3. Septakord, ktorý sa skladá z molového kvintakordu a malej septimy, nazývame **molovo-malý**.
+
+        4. Septakord, ktorý sa skladá z molového kvintakordu a veľkej septimy, nazývame **molovo-veľký.**
+
+        5. Septakord, ktorý sa skladá zo zväčšeného kvintakordu a veľkej septimy, nazývame **zväčšeno-veľký.**
+
+        6. Septakord, ktorý sa skladá zo zmenšeného kvintakordu a malej septimy, nazývame **zmenšeno-malý.**
+
+        7. Septakord, ktorý sa skladá zo zmenšeného kvintakordu a zmenšenej septimy, nazývame **zmenšeno-zmenšený** alebo častejšie **zmenšený.**
+
+        **Akordická značka:**
+
+        ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.004.png)
+
+        Všetky septakordy sú akordy “disonantné” (rôzne znejúce alebo nespoluznejúce, napäté).
+
+  3. **Obraty:**
+      - **Kvintakord:** Kvintakordy sú základné tvary akordov. Z nich odvodené ostatné tvary akordických trojzvukov sú obraty kvintakordov.
+
+        Podobne ako obraty intervalov, vznikajú aj obraty kvintakordov preskupením (permutáciou) tónov kvintakordu tak, aby sa rozličné tóny dostali na spodok akordu. Intervaly, z ktorých boli kvintakordy zostavené, sa pri obratoch menia a sú nahradené svojimi intervalovými obratmi.
+
+        Z harmonického hľadiska sú pre obraty dôležité dva tóny:
+
+          - a) **základný tón pôvodného kvintakordu**
+
+          - b) **spodný tón obratu** (nazýva sa **basový tón**)
+
+        Prvý obrat kvintakordu získame preskupením tónov kvintakordu tak, aby sa basovým tónom stala tercia kvintakordu (prenesenie základného tónu o oktávu vyššie, nad terciu a kvintu kvintakordu).
+
+        Celkovým rozsahom tohto akordu bude sexta a tento akord nazývame **sextakordom**.
+
+        ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.005.png)
+
+        Druhý obrat kvintakordu vznikne, ak sa po preskupení tónov stane basovým tónom kvinta kvintakordu.
+
+        (prenesenie základného tónu a tercie kvintakordu o oktávu vyššie, nad jeho kvintu).
+
+        Akord má tiež rozsah sexty, ale je utvorený z kvarty a z tercie, ktoré spolu túto sextu tvoria. Na rozlíšenie od prvého obratu sa i v jeho názve kvarta zdôrazňuje (i zvukovo v ňom kvarta viac vyniká) a nazývame ho **kvartsextakordom**.
+
+        ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.006.png)
+
+      - **Septakord:** Zo septakordov, ako základných akordických tvarov, vznikajú odvodené akordy - obraty, podobne ako z kvintakordov. Na rozdiel od kvintakordu má však septakord tri obraty.
+
+        Prvý obrat septakordu vznikne tak, že sa tercia septakordu stáva jeho basovým tónom (prenesenie základného tónu nad terciu, kvintu a septimu).
+
+        Pomenovanie obratu dostaneme, keď odsledujeme, kde sa nachádza interval sekundy => medzi kvintou a sextou. Tento obrat preto označujeme ako **kvintsextakord.**
+
+        ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.007.png)
+
+        Druhý obrat, ktorého basovým tónom je kvinta septakordu (prenesenie základného tónu a tercie nad kvintu a septimu).
+
+        Pomenovanie obratu dostaneme, keď odsledujeme, kde sa nachádza interval sekundy => medzi terciou a kvartou. Nazývame ho preto **terckvartakordom**.
+
+        ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.008.png)
+
+        Tretím obratom, ktorého basovým tónom je septima, je **sekundakord**.
+
+        Pomenovanie obratu dostaneme, keď odsledujeme, kde sa nachádza interval sekundy => medzi basovým tónom a sekundou.
+
+        ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.009.png)
 
   </details><br/>
 
-- **b)** na notových príkladoch vysvetlite základné princípy skráteného
-    akordického sprievodu: generálbasu a akordických značiek.
-    Vysvetlite ich historické a žánrové súvislosti.
+- **b)**
+  - Na notových príkladoch vysvetlite základné princípy skráteného akordického sprievodu: generálbasu a akordických značiek.
+  - Vysvetlite ich historické a žánrové súvislosti.
 - <details>
     <summary>Vypracovanie</summary>
 
-  -
+  - **Basso continuo / generálbas / generálny bas / číslovaný bas**
+
+    (po francúzsky: basse chiffrée, po nemecky: Generalbass):
+
+    používal sa predovšetkým v období baroka, od roku 1600 až do roku 1750:
+
+    do konca 16. storočia bol označovaný ako **spôsob tvorby harmonického základu** akordickou hrou na sprievodnom nástroji (lutna, čembalo, organ), ako kontrast pre melodický hlas.
+
+    V 17. a 18. storočí to bol **spôsob notácie** pre najnižší hlas.
+
+    Dnes týmto pojmom označujeme **spôsob vytvárania harmonickej štruktúry** skladby, pri ktorej nástroj (alebo skupina nástrojov) hrá basovú líniu a nad ňu improvizuje harmóniu podľa číselných údajov skladateľa.
+
+    Niektorí teoretici dokonca nazývajú barokovú hudobnú epochu obdobím “generálbasovým”.
+
+    Generálbas, ako notačný systém, predstavuje zjednodušený spôsob špecifikácie akordov, kde sú akordy (ako harmonický sprievod) naznačené pomocou basovej linky s pridruženým značením (najmä číslicovými symbolmi, zvyčajne nad alebo pod notami basovej linky).
+
+    Témou generálbasu sa zaoberalo mnoho príručiek, avšak realizácia basového partu v konečnom dôsledku vždy záležala na znalostiach a hudobných schopnostiach hráča (realizácia harmónií ako akordov bola ponechaná na hráčovi a pôvodne bola často improvizovaná). Správe zvládnutie tohto spôsobu hry patrilo k hlavným pilierom dokonalého hudobného majstrovstva.
+
+    U Bassa continua berieme vždy od basového tónu **doškálny kvintakord** ako základ (**ak tam nie je žiadna značka**) (doškálny znamená, že rešpektujeme predznamenanie). Ak je tam **iné číslo**, tak berieme **príslušný interval** (napr. ak je tam 6, berieme od basového tónu terciu a sextu, ak je tam 6/4, berieme od basu kvartu a sextu, ak je tam 4/2, berieme od basového tónu sekundu a kvartu, ak je tam 7, berieme doškálny kvintakord a septimu. Ak je **akcidentála pod notou**, týka sa **vždy** **tercie** (# zvýšenie, b zníženie), ak je **vedľa čísla**, pripadne je číslo prečiarknuté, zvyšuje sa **príslušný interval.**
+
+    ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.010.png)
+
+  - **Akordická značka** je zjednodušený zápis akordu mimo bežnej notácie. Akordické značky označujú akordy pomocou písmen, čísel, posuviek a skratiek.
+
+    Akordická značka určuje základný tón, tónorod (dur alebo mol) a jednotlivé tóny akordu.
+
+    Najstarším druhom akordických značiek bol generálbas.
+
+    Zápis akordických značiek vznikol na mnohých miestach súčasne, ako pomôcka pre zjednodušenie notácie (predovšetkým jazzových orchestrov), nie je preto dodnes zjednotené do celosvetovo rešpektovaného jednotného (unifikovaného) systému - existuje v ňom rad dvojíc i trojíc značiek, ktoré majú zhodný význam.
+
+    Na čom sa naopak väčšina hudobníkov používajúcich akordické značky zhodne, je vytváranie akordov (a tým aj ich značenia) na základe terciového systému (k základnému tónu akordu postupne pridávame (po terciách) ďalšie intervaly - tercia, kvinta, septima, nona, undecima a tercdecima.).
+
+    ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.011.png)
+
+    ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.012.png)
+
+    ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.013.png)
+
+    ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.014.png)
+
+    ![](img/Aspose.Words.b2bb3ad4-6666-41f9-85dc-6a201a24ea3e.015.png)
 
   </details><br/>
 
-- **c)** charakterizujte situáciu v hudbe na prelome 16. a 17. storočia,
-    ktorá viedla ku vzniku monodického štýlu a opery. Vysvetlite
-    súvislosti medzi snahami o oživenie antického divadla a vzniku
-    opery. Charakterizujte tvorbu Claudia Monteverdiho. Vysvetlite
-    princípy *prima* a *seconda pratica* v jeho tvorbe. Načrtnite
-    podstatu jeho opernej reformy a jej prínos pre komerčný úspech
-    tohto hudobného druhu.
+- **c)**
+  - Charakterizujte situáciu v hudbe na prelome 16. a 17. storočia, ktorá viedla ku vzniku monodického štýlu a opery.
+  - Vysvetlite súvislosti medzi snahami o oživenie antického divadla a vzniku opery.
+  - Charakterizujte tvorbu Claudia Monteverdiho.
+  - Vysvetlite princípy *prima* a *seconda pratica* v jeho tvorbe.
+  - Načrtnite podstatu jeho opernej reformy a jej prínos pre komerčný úspech tohto hudobného druhu.
 - <details>
     <summary>Vypracovanie</summary>
 
-  -
+  Základom vzniku hudobného štýlu baroka bolo nasýtenie sa ľudí hudbou svojej doby. Polyfonická prekomplikovanosť hudobného prejavu vrcholného obdobia renesancie viedla k hľadaniu nových ciest.
+
+  Víťazí jednoduchý spôsob hudobného vyjadrovania sa. Celá krása hudobného prejavu sa sústreďuje v jednohlasnej melódii, tzv. monódii s akordickým sprievodom.
+
+  Melodicko-harmonický sloh sa stáva nezrušiteľnou väzbou medzi horizontálnym priebehom melódie a vertikálnym pôsobením akordov.
+
+  Starý systém cirkevných tónin (stredovekých módov) používaných v renesancii bránil rozvoju harmonického myslenia.
+
+  Na prekážku bolo aj lineárne polyfonické myslenie, v ktorom mali hlasy svoju samostatnosť a nepodliehali vertikálnej súzvučnosti (a keď aj áno, tak nie ako premyslený kompozičný výsledok).
+
+  Hudba baroka sa teda vyznačovala prechodom od polyfónie k monódii, zavádzala sa nová notačná prax (generálny bas) a spev sa realizoval so sprievodom akordických hudobných nástrojov (ako lutna alebo čembalo).
+
+  Keďže sa upustilo od zložitosti viachlasu a pozornosť sa zamerala na jednu melódiu, začala byť táto melódia ozdobnejšia a klenutejšia. Vzniká baroková citovosť vyjadrená melodickou ozdobnosťou. Barokoví umelci si dávali záležať na ozdobách, interpreti sami vydávali knihy ozdôb.
+
+  V tomto období sa natrvalo presadilo taktové delenie hudby, ako sled rovnako dlhých časových úsekov hudby oproti dovtedajšiemu stredovekému modálnemu rytmu. Cítiť to v pravidelnom striedaní prízvučných a neprízvučných dôb v jednotlivých taktoch. Veľký vplyv tu mala i tanečná hudba, ktorá sa stala vo vysokých kruhoch súčasťou barokového lesku a spoločenskej prestíže.
+
+  Avšak aj hudba s voľným rytmom (bez pevného taktového zadelenia), tzv. ametrická hudba, mala v baroku svoje miesto. Najčastejšie sa vyskytovala ako recitatív v opernej hudbe (na vyjadrenie osobitných citových polôh ako napr. prejav bolesti, vášne, smútku, dramatického konfliktu a pod.).
+
+  Novinkou baroka bolo tempové označenie skladieb (v 17. a 18. storočí sa v Taliansku začali používať tieto tempové parametre hudby: Allegro, Largo, Adagio, Presto, Grave, Lento, Andante, a ďalšie).
+
+  Hudobná dynamika bola úzko spojená s technickými možnosťami hrania na jednotlivých nástrojoch. Zmena dynamickej hladiny bola spôsobená skôr nástupom inej nástrojovej skupiny => takéto náhle zmeny sa volali terasovitá dynamika (crescendo a descrescendo, ako samostatný efekt, baroková hudba ešte nepoznala).
+
+  Vo vokálnej hudbe vzniká recitatívny druh melodiky s kľudnejším tempom blízkym hovorovej reči s malým tónovým rozsahom, ale tiež melódie ariózneho typu (árie) s väčším rozsahom pre náročnejšie umelecké prejavy na predvádzanie tzv. bel canta (krásneho spevu).
+
+  V baroku bola rozšírená v celej Európe, okrem Anglicka, aj prstokladová zvláštnosť (pre klávesové nástroje) => “hra troma prstami”, ktorá bola považovaná za tradičný spôsob prstokladu (uprednostňoval sa pri ňom ukazovák, prostredník a prstenník (palec a malíček sa vôbec nepoužívali)).
+
+  Rovnako ako v ostatných druhoch umenia, aj v hudbe sa znázorňovali hlboké pocity, pátos, monumentálne až tragické nálady, ktoré mohli vyústiť afektom. Hudbu v tomto období veľmi ovplyvnil meniaci sa svetonázor, neustály súboj medzi katolíckou a protestantskou cirkvou, nekonečné vojny a posilňovanie absolutizmu. Popri náboženskom mysticizme a viere sa do popredia dostával človek, viera vo vlastné schopnosti a svoj rozum.
+
+  ***Opera:***
+
+  Všetky reformy, ktoré sa uskutočnili v hudbe v období baroka, viedli ku vzniku nového umeleckého žánru, kde prišlo ku spojeniu hudby s literárnym námetom, dotvoreným jeho výtvarným scénickým riešením, pohybom, divadelnou realizáciou, ale hlavne speváckym a orchestrálnym prejavom. Prvky opery sa objavili už pri presadzovaní monodiálnej hudby zameranej na výraz v melódii sprevádzanej akordickým harmonickým sprievodom. Vznik opery podstatne podporila afektová teória hľadajúca adekvátny hudobný výraz pre rôzne emocionálne stavy. Na vzniku opery sa podieľala svojím charakterom aj zborová a sólová hudba rôzneho druhu, madrigaly (najmä vo svojom vrcholnom štádiu vývoja), tanečná inštrumentálna hudba, maškarné sprievody a podobne.
+
+  Zárodky vzniku opery sa zrodili v predstavách vzdelaných členov aristokratických spoločností, akou bola **florentská camerata** na prelome 16. a 17. storočia. Združovala ľudí zo sféry výtvarného umenia, literátov a hudobných umelcov. Z hudobníkov menujme aspoň Jacopa Periho, Giulia Cacciniho a Emilia Cavalieriho. Ich ideovým vodcom bol otec známeho hvezdára, Vincenzo Galilei, veľký znalec antickej kultúry. Prístrešie florenstskej camerate ponúkli kniežatá Bardi a Corsi. V záujme týchto umelcov bolo dať v umeleckom diele dôstojné miesto slovu - keďže sa začali ozývať hlasy volajúce po lepšej zrozumiteľnosti textu (ktorý v komplikovanej vokálnej polyfónii zanikal) - do centra pozornosti sa dostal text a každé jedno slovo, jeho obsah a zmysel, pričom hudba mala predovšetkým podporiť jeho zrozumiteľnosť a výrazový potenciál. Podľa vyhlásenia členov florentskej cameraty: “reč nech je pánom hudby a nie jej sluhom”.
+
+  Zrozumiteľnosť textu sa tak stala prvoradým kritériom kompozície i interpretácie.
+
+  V spôsobe javiskového predvádzania bola vzorom antická dráma.
+
+  Pri kolíske opery stáli so svojimi dielami Jacopo Peri a Giulio Caccini. Najmä Periho Daphné, a potom aj Euridice, sa spájajú s úspešným predvedením. Išlo o jednoduché pastierske hry so sólami, dialógmi a zborovou hudbou, za sprievodu clavicembala improvizovaným spôsobom zo zápisu číslovaného basu.
+
+  Raná forma hudobného žánru opery sa nazývala **favola in musica** (príbeh v hudbe). Neskôr sa používal názov **drama per musica** (dráma na hudbu).
+
+  Pre vývoj operného žánru mali veľký význam verejné operné divadlá. Prvým z nich bolo Teatro di San Cassiano v Benátkach, postavené v roku 1637.
+
+  **Claudio Monteverdi** bol taliansky hudobný skladateľ. Jeho celoživotná piesňová tvorba, ktorú sústreďoval do svojich kníh madrigalov (madrigal je druh svetskej vokálnej polyfónie (viachlasu) z obdobia renesancie a baroka), demonštruje postupný prechod od polyfónneho štýlu renesancie k barokovej monódii. V jeho predstavách nadobudli madrigaly taký dramatický výraz, že od nich bol už len krôčik k novej hudobnej dráme, ktorou sa stala opera.
+
+  **Skomponoval deväť zbierok madrigalov a celkom zložil osemnásť opier** (ale zachovali sa len tri).
+
+  V úvode svojej piatej zbierky madrigalov predložil návrh rozdelenia hudby do dvoch odlišných štýlov, prima prattica a seconda prattica. Monteverdi definoval **prima prattica** ako dokonalosť kontrapunktu 16. storočia podľa pravidiel a foriem, vďaka ktorým bola hudba Palestrinu taká úspešná. Toto bola božská hudba. Monteverdi však túžil po slobode prejaviť ľudskosť, a tým nedokonalosť vo svojej hudbe. Jeho **seconda prattica** umožňuje porušiť tieto pravidlá kontrapunktu a melódie, ak si to dráma, emócia alebo (častejšie) text vyžadovali. To umožnilo skladateľovi slobodu urobiť hudbu disonantnou alebo škaredou, ak to bolo potrebné, aby vyjadril to, čo chcel. Práve rozvoj tejto seconda prattica dal zrod éry hudby, ktorú nazývame barok.
+
+  Vo svojich kompozíciách však stále uplatňoval oba štýly (nikdy neprestal komponovať aj v dovtedajšom renesančnom štýle, v ktorom bol vychovaný).
+
+  Monteverdi bol prvým skladateľom, ktorý vo svojich dielach zámerne využíval **disonanciu**, a tým rozšíril harmonické možnosti európskej hudby. Jeho ďalšími významnými inováciami v oblasti techniky hry na strunové nástroje je zavedenie tremola (stáleho opakovania rovnakého tónu) a pizzicata (hra bruškami prstov namiesto sláčika) pre zvýšenie dramatického účinku hudby.
+
+  V opernom žánri priniesol viaceré novátorské snahy. Jeho prvé výrazné úspechy sa datujú z pobytu v Mantove, kde vznikla opera **Orfeo** (označovaná za najprogresívnejší krok v dejinách opernej hudby). Jeho novátorstvo sa prejavilo v silnom citovom výraze jeho vzrušeného štýlu (stile concitato) v speve a orchestrálnom výraze. Recitatívy sa prelínajú so základným tvarom árií. Svoju dôležitosť nadobúdajú popri spievanej melódii orchestrálne úvody, medzihry a osobitná podoba inštrumentálneho sprievodu speváckych partov.
+
+  V opere **Arianna** (z ktorej sa zachoval iba Ariannin nárek) vznikajú miesta s príznačnými motívmi plaču v niekoľkých podobách - popri prejave smutného rozhodnutia zomrieť sa vyskytujú umelecky štylizované polohy usedavého plaču, volania o pomoc, vzdorovitý hnev proti vlastnému osudu a prejavy silnej vôle prekonať následky smutného osudu. Využitie monódie mu umožnilo predstaviť poslucháčom Ariadnin tragický citový stav tak intenzívne a životne, ako to s použitím dovtedajšej polyfónnej skladobnej techniky nebolo vôbec mysliteľné. Voľný rytmus recitatívu umožňuje prirodzenejšiu a vierohodnejšiu reč hlavnej postavy a Monteverdi sprevádza priliehavou hudbou Ariadnine emócie, rýchle sa striedajúce od hnevu až po bezútešný smútok. Vášnivá bolesť so silným emocionálnym nábojom je zrozumiteľná, stáva sa vzorom novej hudobnej reči, až módnym prejavom pre ďalších skladateľov.
+
+  Opera **Korunovácia Poppei** má znaky vyspelého majstrovského diela ukazujúceho cestu ďalšieho vývoja barokového operného žánru s technicky náročnými áriami, duetami, ansámblami, zborovými a orchestrálnymi miestami.
+
+  Jeho tvorba sa považuje za revolučný medzník v ďalšom vývoji opery, a jeho zásluhou sa stala baroková operná hudba stredobodom pozornosti svojej doby.
 
   </details><br/>
 
