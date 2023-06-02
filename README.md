@@ -7,7 +7,7 @@
 **Názov témy:** ČAS A POHYB V HUDBE
 
 - **a)**
-- Vysvetlite pojmy rytmus, metrum, takt, tempo a ich zaznamenávanie v notovom zápise.
+  - Vysvetlite pojmy rytmus, metrum, takt, tempo a ich zaznamenávanie v notovom zápise.
 - <details>
     <summary>Vypracovanie</summary>
 
